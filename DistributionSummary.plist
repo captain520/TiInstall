@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TiGame.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>0C3521EDEA2FE3EE77AE9391F8E0325784C4644A</string>
+				<key>dateExpires</key>
+				<string>2020/10/10</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>37XF7678WV.com.captain.haisidemo</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>37XF7678WV</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>37XF7678WV.com.captain.haisidemo</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>钛电竞Test.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>db9ed952-a9d7-44f7-9de7-63a8f4840732</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.captain.haisidemo</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>37XF7678WV</string>
+				<key>name</key>
+				<string>Shenzhen TOGEVISION TECHNOLOGY CO.,LTD</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
